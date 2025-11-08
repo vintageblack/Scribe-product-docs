@@ -54,3 +54,8 @@ Scribe’s architecture leverages proven, scalable technologies — React, Node.
 
 This makes the system both feasible and sustainable for production-scale teams.
 
+
+
+
+Design Mockup
+https://www.figma.com/design/ZDt9yf76NGkc5oLSEGIg99/AI-Web-driven-Architecture?node-id=0-1&t=uGKqq52yqFZCs7hZ-1
